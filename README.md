@@ -3,8 +3,8 @@ I'M MUBARAK
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...SPOTIFY MUSIC APP CLONE
-- 🌱 I’m currently learning ...TYPESCRIPT
+- 🔭 I’m currently working on ...F & K SAVINGS DASHBOARD
+- 🌱 I’m currently learning ...REDUX
 - 👯 I’m looking to collaborate on ... FRONT END PROJECTS
 - 🤔 I’m looking for help with ...FRONT END WEB DEVELOPMENT
 - 💬 Ask me about ...WEB DEVELOPMENT
