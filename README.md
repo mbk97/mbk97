@@ -3,7 +3,7 @@ I'M MUBARAK
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...F & K SAVINGS DASHBOARD
+- 🔭 I’m currently working on ...GetVerico Website
 - 🌱 I’m currently learning ...NEXT JS
 - 👯 I’m looking to collaborate on ... FRONT END PROJECTS
 - 🤔 I’m looking for help with ...FRONT END WEB DEVELOPMENT
