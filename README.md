@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br>i'm MUBARAK A FULL-STACK SOFTWARE ENGINEER<br><br>Here are some ideas to get you started:<br><br>I’m currently working on  === Pledre  Website<br>I’m presently learning === NODE JS<br>I’m looking to collaborate on === FULL-STACK WEB PROJECTS<br> Ask me about  === WEB DEVELOPMENT
+### Hi there 👋<br>i'm MUBARAK, A FULL-STACK SOFTWARE ENGINEER<br><br>Here are some ideas to get you started:<br><br>I’m currently working on  === Pledre  Website<br>I’m presently learning === NODE JS<br>I’m looking to collaborate on === FULL-STACK WEB PROJECTS<br> Ask me about  === WEB DEVELOPMENT
 
 
 ## 🌐 Socials:
