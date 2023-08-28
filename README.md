@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br>i'm MUBARAK, A FULL-STACK SOFTWARE ENGINEER<br><br>Here are some ideas to get you started:<br><br>I’m currently working with  === Wema<br>I’m presently learning === AWS<br>I’m looking to collaborate on === FULL-STACK WEB PROJECTS<br> 
+### Hi there 👋<br>i'm MUBARAK, A FULL-STACK SOFTWARE ENGINEER<br><br>Here are some ideas to get you started:<br><br>I’m currently working with  === Wema Bank PLC<br>I’m presently learning === AWS<br>I’m looking to collaborate on === FULL-STACK WEB PROJECTS<br> 
 
 
 ## 🌐 Socials:
